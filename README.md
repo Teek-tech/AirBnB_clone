@@ -66,7 +66,7 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 ## Authors
 
 - **Tochukwu Odeme** ~ [tochuks.chris@gmail.com](https://github.com/teek-tech) ~ [@GeeCoding](https://twitter.com/Tkay_official) :
-- **Eze-Awaji Larry** ~ {larryezeawaji@gmail.com}(https://github.com/LarryWaj) ~ [@_larry101](https://twitter.com/_larry101) :
+- **Eze-Awaji Larry** ~ [larryezeawaji@gmail.com](https://github.com/LarryWaj) ~ [@_larry101](https://twitter.com/_larry101) :
 
 
 <img align="center" src="https://raw.githubusercontent.com/nickssilver/AirBnB_clone/main/img/unnamed.png" alt="footer" width="160"  height="160"/>
