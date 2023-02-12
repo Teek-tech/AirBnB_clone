@@ -5,7 +5,7 @@
 
 This team project is part of the ALX School Full-Stack Software Engineer program.
 It's the first step towards building a first full web application: an AirBnB clone.
-This first step consists of a custom command-line interface for data management, and the base classes for the storage of this data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
+This first step consists of a custom command-line interface for data management, and the base classes for the storage of this data. Console commands allow the user to create, update and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
 
 ## Usage
 
@@ -65,7 +65,8 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 ## Authors
 
-- **Tochukwu Odeme** ~ [tochuks.chris@gmail.com](https://github.com/teek-tech) ~ [@GeeCoding](https://twitter.com/Tkay_official) : 
+- **Tochukwu Odeme** ~ [tochuks.chris@gmail.com](https://github.com/teek-tech) ~ [@GeeCoding](https://twitter.com/Tkay_official) :
+- **Eze-Awaji Larry** ~ [larryezeawaji@gmail.com](https://github.com/LarryWaj) ~ [@_larry101](https://twitter.com/_larry101) :
 
 
 <img align="center" src="https://raw.githubusercontent.com/nickssilver/AirBnB_clone/main/img/unnamed.png" alt="footer" width="160"  height="160"/>
